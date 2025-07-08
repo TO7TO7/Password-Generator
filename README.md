@@ -21,7 +21,7 @@ It creates **1,000,000 customized passwords** based on user input with smart `le
   - Favorite number
   - Custom words (pet names, dates, etc.)
   - Extra optional inputs  
-- ✅ Guarantees passwords like `Mazen_1234@@`, `M@z3n_1234!!`, etc.
+- ✅ Guarantees passwords like `Mazen_1234!#`, `M@z3n_1234!!`, etc.
 - 📏 Max password length: 16 characters
 - 💥 Outputs **1 million unique passwords** in `leet_passwords.txt`
 
