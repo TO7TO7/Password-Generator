@@ -37,4 +37,4 @@ It creates **1,000,000 customized passwords** based on user input with smart `le
 ### ▶️ Run the script
 
 ```bash
-python leet_password_generator.py
+python generator.py
